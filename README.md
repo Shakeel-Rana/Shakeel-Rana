@@ -33,7 +33,8 @@ With hands-on experience in simulating real-world cyber attacks and creating sma
 - 🧪 Reconnaissance & Payload Testing Labs  
 
 ### 📡 IoT & Embedded Systems
-- 🛑 Smart Gas Detection System using ESP32  
+- 🛑 Smart Gas Detection System using ESP32
+- 🛑  Robost usin Arduino, Raspberry Pi 
 - 🏠 Arduino-Based Home Automation  
 - 📍 Secure GPS Tracker with Web Dashboard  
 
