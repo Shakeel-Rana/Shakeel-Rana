@@ -1,52 +1,80 @@
 # 👋 Hi, I'm Shakeel Rana
 
-### 💻 Cybersecurity Professional | Embedded Systems & IoT Developer  
-**Focused on Red Team tactics, secure embedded systems, and real-world attack simulations.**
+### 💻 Offensive Security Enthusiast | Embedded & IoT Developer  
+**Focused on cyber attack simulation, red team labs, and smart & secure electronics.**
 
 ---
 
 ## 🧠 About Me
 
-I am a cybersecurity enthusiast with a strong interest in **Red Team operations**, offensive security techniques, and ethical hacking. My expertise extends into **Embedded Systems and IoT**, where I build intelligent, automated, and secure solutions using microcontrollers like **Arduino**, **ESP32**, and **Raspberry Pi**.
+I’m a cybersecurity professional with a passion for **offensive security**, **adversary simulation**, and **embedded system security**. I build smart and secure systems using **ESP32**, **ESP32-CAM**, **Arduino**, and **Raspberry Pi**.
 
-With hands-on experience in simulating real-world cyber attacks and creating smart IoT systems, I aim to bridge the gap between hardware innovation and cyber defense.
+I design **recon tools**, **ethical attack simulations**, and **IoT-based automation projects** that blend electronics with cybersecurity — closing the gap between hardware and digital defense.
 
 ---
 
 ## 🔧 Skills & Tools
 
-- 🔴 Red Team Tactics & Adversary Simulation  
-- 🛡️ OSINT, Ethical Hacking, and Penetration Testing  
-- 🔌 Embedded Systems (Raspberry Pi, Arduino, ESP32)  
-- 🌐 IoT Development & Device Security  
-- 🐍 Languages: Python, Bash, C/C++, Java  
-- 📶 Sensors, Actuators, and Networking Protocols  
-- ☁️ Integration with Local Servers & Cloud Platforms
+- ⚔️ Offensive Security & Adversary Simulation  
+- 🕵️ OSINT & Ethical Hacking  
+- 🔌 Embedded Systems (ESP32, ESP32-CAM, Arduino, Raspberry Pi)  
+- 🌐 IoT Automation & Security  
+- 🐍 Python | Bash | C/C++ | Java  
+- 📶 Networking, Sensors, Actuators  
+- ☁️ Cloud + Local IoT Integration  
+- 🔒 Secure Firmware Development
 
 ---
 
 ## 🚀 Projects
 
 ### 🔴 Offensive Security & Red Team
-- 🔍 OSINT Automation Scripts  
-- 🎯 Phishing Simulation Environments  
-- 🧪 Reconnaissance & Payload Testing Labs  
 
-### 📡 IoT & Embedded Systems
-- 🛑 Smart Gas Detection System using ESP32
-- 🛑  Robost usin Arduino, Raspberry Pi 
-- 🏠 Arduino-Based Home Automation  
-- 📍 Secure GPS Tracker with Web Dashboard  
+- **WiFi Hacking Device (ESP32)**  
+  Educational red team device that captures handshakes, monitors probe requests, and performs deauth simulation using ESP32.
 
-*🚧 More innovative projects coming soon...*
+- **OSINT Automation Toolkit**  
+  Python + Bash toolkit for automating data collection, metadata parsing, and footprinting from public sources.
+
+- **Phishing Simulation Lab**  
+  Email phishing templates with tracking and victim logging – used for awareness training in controlled environments.
+
+- **Payload & Recon Scripts**  
+  Custom Python and shell scripts for red team operations, recon automation, and adversary simulation.
+
+---
+
+### 📡 Embedded Systems & IoT Projects
+
+- **ESP32-CAM Smart Surveillance System**  
+  Motion-detection camera with live video stream and optional cloud snapshot backup – used for secure monitoring.
+
+- **Smart Gas Detection System**  
+  ESP32 + MQ-2 sensor detects hazardous gases, triggers alarms, and notifies users via web dashboard.
+
+- **Secure GPS Tracker**  
+  A location tracker using GPS + GSM + ESP32 with real-time location reporting to a web server.
+
+- **Arduino-based Home Automation**  
+  Controls lights/fans/devices through IR sensors and relay modules, integrated with mobile app control.
+
+---
+
+## 🧪 Upcoming Labs
+
+- Custom payload generator (ESP payload injection)  
+- ESP32 WiFi honeypot & captive portal trap  
+- Secure MQTT-based industrial sensor network
 
 ---
 
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn: ExploitX](https://www.linkedin.com/in/exploitx/)  
-- 📧 Email: webmaster.rana.no1@gmail.com
+- 📧 Email: webmaster.rana.no1@gmail.com  
+- 🧑‍💻 GitHub: [Shakeel-Rana](https://github.com/Shakeel-Rana)
 
 ---
 
-> ⚙️ *Always exploring the intersection of security and innovation...*
+> ⚙️ *"Simulating threats to build unbreakable systems."*  
+> 🧠 *Security meets electronics. Code meets hardware. Real-world solutions.*  
