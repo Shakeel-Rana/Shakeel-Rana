@@ -1,80 +1,78 @@
 # 👋 Hi, I'm Shakeel Rana
 
-### 💻 Offensive Security Enthusiast | Embedded & IoT Developer  
-**Focused on cyber attack simulation, red team labs, and smart & secure electronics.**
+### 🚀 Offensive Security Engineer | Ethical Hacker | Python for Cyber Defense | Reverse Engineering | Network & IoT Security | DevSecOps | Threat Detection & Incident Response  
+
+💻 **Red Team Tactics | Embedded Systems | Secure IoT Solutions**
 
 ---
 
 ## 🧠 About Me
 
-I’m a cybersecurity professional with a passion for **offensive security**, **adversary simulation**, and **embedded system security**. I build smart and secure systems using **ESP32**, **ESP32-CAM**, **Arduino**, and **Raspberry Pi**.
+I'm a cybersecurity professional with a passion for **offensive security**, **reverse engineering**, and **red team operations**. I design and simulate real-world cyber attacks, build security tools, and develop intelligent IoT systems.
 
-I design **recon tools**, **ethical attack simulations**, and **IoT-based automation projects** that blend electronics with cybersecurity — closing the gap between hardware and digital defense.
+My technical foundation lies in **embedded systems** and **IoT**, using platforms like **ESP32**, **ESP32-CAM**, **Arduino**, and **Raspberry Pi** to build secure, automated, and smart solutions. I enjoy bridging the gap between **hardware engineering** and **cyber defense**.
+
+> ⚙️ *"Simulating threats to build unbreakable systems."*
 
 ---
 
 ## 🔧 Skills & Tools
 
-- ⚔️ Offensive Security & Adversary Simulation  
+- 🔴 Red Team Tactics & Adversary Simulation  
+- 🧪 Reverse Engineering & Malware Analysis  
 - 🕵️ OSINT & Ethical Hacking  
-- 🔌 Embedded Systems (ESP32, ESP32-CAM, Arduino, Raspberry Pi)  
+- 🔌 Embedded Systems (ESP32, Arduino, Raspberry Pi)  
 - 🌐 IoT Automation & Security  
 - 🐍 Python | Bash | C/C++ | Java  
-- 📶 Networking, Sensors, Actuators  
-- ☁️ Cloud + Local IoT Integration  
-- 🔒 Secure Firmware Development
+- 📶 Networking Protocols, Sensors, Actuators  
+- ☁️ Cloud & Local IoT Integration  
+- 🔒 Secure Firmware Development  
+- ⚙️ DevSecOps (CI/CD Security Integration)
 
 ---
 
 ## 🚀 Projects
 
-### 🔴 Offensive Security & Red Team
-
+### 🔴 Offensive Security Projects
 - **WiFi Hacking Device (ESP32)**  
-  Educational red team device that captures handshakes, monitors probe requests, and performs deauth simulation using ESP32.
-
+  Captures handshakes, monitors probe requests, and performs deauth simulation – for red team training.  
 - **OSINT Automation Toolkit**  
-  Python + Bash toolkit for automating data collection, metadata parsing, and footprinting from public sources.
-
+  Python + Bash tool for footprinting, metadata parsing, and automated reconnaissance.  
 - **Phishing Simulation Lab**  
-  Email phishing templates with tracking and victim logging – used for awareness training in controlled environments.
-
+  Controlled email phishing environments for awareness and attack vector testing.  
 - **Payload & Recon Scripts**  
-  Custom Python and shell scripts for red team operations, recon automation, and adversary simulation.
-
----
+  Custom scripts for automated payload delivery, exploitation, and target analysis.
 
 ### 📡 Embedded Systems & IoT Projects
-
 - **ESP32-CAM Smart Surveillance System**  
-  Motion-detection camera with live video stream and optional cloud snapshot backup – used for secure monitoring.
-
+  Motion-based live video with optional cloud backup for security monitoring.  
 - **Smart Gas Detection System**  
-  ESP32 + MQ-2 sensor detects hazardous gases, triggers alarms, and notifies users via web dashboard.
-
+  Real-time gas monitoring using MQ-2 + ESP32 with alarm + web dashboard.  
 - **Secure GPS Tracker**  
-  A location tracker using GPS + GSM + ESP32 with real-time location reporting to a web server.
-
+  GSM + GPS + ESP32 tracker with real-time location reporting to a secure web app.  
 - **Arduino-based Home Automation**  
-  Controls lights/fans/devices through IR sensors and relay modules, integrated with mobile app control.
+  IR + Relay-based device control with mobile app integration.  
+- **Robotic Platform (ESP + Arduino + Pi)**  
+  Multi-board integration for autonomous movement and sensor-based tasks.
 
 ---
 
 ## 🧪 Upcoming Labs
 
-- Custom payload generator (ESP payload injection)  
-- ESP32 WiFi honeypot & captive portal trap  
-- Secure MQTT-based industrial sensor network
+- Custom payload generator for red team simulation  
+- ESP32-based WiFi honeypot & captive portal trap  
+- Secure MQTT-enabled industrial sensor network  
+- OTA firmware update system for IoT security patching
 
 ---
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn: ExploitX](https://www.linkedin.com/in/exploitx/)  
+- 🔗 [LinkedIn – ExploitX](https://www.linkedin.com/in/exploitx/)  
 - 📧 Email: webmaster.rana.no1@gmail.com  
 - 🧑‍💻 GitHub: [Shakeel-Rana](https://github.com/Shakeel-Rana)
 
 ---
 
-> ⚙️ *"Simulating threats to build unbreakable systems."*  
 > 🧠 *Security meets electronics. Code meets hardware. Real-world solutions.*  
+> 🔐 *Red Teaming + Embedded Innovation = Resilient Systems*
